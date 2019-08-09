@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec9784cb.chunk.css",
+    "main.js": "/static/js/main.5ab467a3.chunk.js",
+    "main.js.map": "/static/js/main.5ab467a3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5239642208c60f463c2751f76ef49a12.js": "/precache-manifest.5239642208c60f463c2751f76ef49a12.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ec9784cb.chunk.css.map": "/static/css/main.ec9784cb.chunk.css.map",
+    "static/media/index.css": "/static/media/Hind-Medium.7b9659dc.ttf"
+  }
+}

@@ -1,0 +1,16 @@
+@font-face {
+  font-display: 'Hind';
+  src: url('./fonts/Hind-Medium.ttf');
+}
+* {
+  font-family: 'Hind','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+  display: flex;
+  height: 100hv;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color:#000;
+  background-image: linear-gradient(to right, rgb(0, 255, 255), rgb(48, 0, 125));
+}

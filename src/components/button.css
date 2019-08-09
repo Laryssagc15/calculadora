@@ -1,0 +1,32 @@
+:root {
+  --bg--button: #ffffff; /*background */
+  --boder--button: solid 1px #000;
+}
+.button {
+  font-size: 1.4em;
+  background-color: var(--bg--button);
+  border: none;
+  border-right: var(--boder--button);
+  border-bottom: var(--boder--button);
+}
+
+.button:active {
+  background-color: #ccc;
+  /*Active é para quando clicar o botão mudar a cor*/
+}
+
+.button.double{
+  grid-column: span 2;
+}
+
+.button.triple{
+  grid-column: span 3;
+}
+
+.button.operation{
+  background-color: rgb(121, 107, 241);
+  color: rgb(255, 255, 255)
+}
+.button.button.operation:active{
+  background-color: rgb(97, 53, 255);
+}
